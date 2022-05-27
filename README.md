@@ -1,7 +1,7 @@
 
 # Image denoising with diversity enhanced posterior sampling conditional GAN
 
-![teaserFigure]()
+![teaserFigure](https://raw.githubusercontent.com/uXfdhRpGM760/div-pscgan/main/figure_2j.png)
 
 Image denoisng is an inverse problem with many possible solutions. Despite enormous progress, popular denoising methods aim at a single best solution and struggle with a number of limitations. Supervised Convolutional Neural Networks tend to produce blurry images, denoising Generative Adversarial Network (GAN) models suffer from mode collapse issues, while variational autoencoders so far underperform on complex data sets. These limitations affect quantitative applications, such as scientific image denoising, where generation of representative distributions of denoised images is of value. The posterior sampling conditional GAN model is a recent development that produces state of the art samples of denoised images with high peak signal-to-noise ratio and low Fr\'echet Inception Distance. However, the sampled images are visually similar. Here we introduce a variance enhanced version of the posterior sampling conditional GAN model, aiming to generate broader distributions of denoised images. The method incorporates an additional diversity loss term, which steers the conditional GAN model training. We provide denoising results and discuss their quality for simple and more complex data sets, compare denoised image distributions to the ones obtained with existing approaches, and show that the presented simple method offers competitive image denoising  while sampling a broader set of solutions.
 ### Information
