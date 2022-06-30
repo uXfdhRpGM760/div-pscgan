@@ -20,4 +20,4 @@ You could use the same virtual environment (`div-pscgan`) as used by us by follo
 4. Then run the command `conda activate div-pscgan`.
 
 ### Getting Started
-You can start by looking in the `examples` directory and try out the notebooks.
+You can start by looking in the `examples` directory.
