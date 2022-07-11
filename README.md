@@ -21,3 +21,4 @@ You could use the same virtual environment (`div-pscgan`) as used by us by follo
 
 ### Getting Started
 You can start by looking in the `examples` directory.
+Models can be found under https://zenodo.org/record/6810614
